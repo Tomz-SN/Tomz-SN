@@ -1,4 +1,4 @@
-# Hi, I'm Tom Sanson 👋
+# Hi, I'm Tom Sanson
 
 💻 First-Year BTech Computer Science Student  
 🤖 Aspiring AI/ML Engineer
